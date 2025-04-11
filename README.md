@@ -1,6 +1,3 @@
-# imdb-sentiment-analysis
-movie-review-sentiment
-
 # 🎬 IMDb Sentiment Analysis (TF-IDF + Machine Learning)
 
 Классический NLP-проект по анализу тональности отзывов на фильмы с IMDb.  
